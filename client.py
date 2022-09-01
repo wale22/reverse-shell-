@@ -6,7 +6,7 @@ import os
 
 
 s=socket.socket()
-host="192.168.56.1"
+host=""
 port=9999
 
 def soccon():
